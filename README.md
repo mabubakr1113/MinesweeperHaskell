@@ -35,5 +35,5 @@ This game has been created completely my me Mohammad Abubakr, 2410176. I have wo
    ```cabal   
    cabal build
 2. ** Run the executable:**
-  ```cabal   
+   ```cabal   
    cabal run
